@@ -1,0 +1,3 @@
+1. SELECT marka, model FROM `samochody` WHERE kolor="czerwony";
+2. UPDATE samochody SET stan = "dobry" WHERE rocznik = 2003;
+3. CREATE USER "andrzej"@"localhost" IDENTIFIED BY "andrzej1@";
